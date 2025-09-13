@@ -9,7 +9,7 @@ This repository implements a **machine learning and deep learning pipeline** for
 ## 📌 Workflow Steps
 
 1. **Data Screening**
-   - Load dataset (`janus_dataset.csv`).
+   - Load dataset (`your_dataset.csv`).
    - Keep only materials with bandgap `Eg > 0`.
    - Label compounds as PV if `1.0 ≤ Eg ≤ 2.5`.
 
