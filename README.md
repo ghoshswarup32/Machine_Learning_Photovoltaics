@@ -1,5 +1,5 @@
 # Machine_Learning_Photovoltaics
-Contains data of 2D Janus materials with machine learning models
+Contains data of Janus materials with machine learning models
 # Photovoltaic Efficiency Prediction Pipeline
 
 This repository implements a **machine learning and deep learning pipeline** for predicting the photovoltaic (PV) efficiency of Janus materials. The workflow integrates **data screening, classification, regression, deep learning, and stacked ensemble modeling**.
