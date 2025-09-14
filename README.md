@@ -25,17 +25,19 @@ This repository implements a **machine learning and deep learning pipeline** for
    - Random Forest Regressor (RFR)  
    - Support Vector Regression (SVR)  
    - Kernel Ridge Regression (KRR)  
-   - XGBoost Regressor  
-   - Genetic Programming (GP)
+   - XGBoost Regressor  (XGBoost)
+   - Symbolic Regression (SR)
 
 5. **Deep Learning Models**
    - **ANN**: Multi-layer fully connected network.  
    - **CNN**: 1D convolutional layers.  
-   - **RNN**: LSTM-based network.  
+   - **RNN**: LSTM-based network.
+   - **DNN**: Deep neural netwoek.
+   - **MPNN**: Message Passing.  
 
 6. **Stacked Model**
    - Base learners: ML + DL models.  
-   - Meta learner: XGBoost.  
+   - Meta learner: CNN+KRR.  
    - Produces final predictions.
 
 7. **Evaluation Metrics**
