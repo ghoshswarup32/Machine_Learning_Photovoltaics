@@ -14,7 +14,7 @@ This repository implements a **machine learning and deep learning pipeline** for
    - Label compounds as PV if `1.0 ≤ Eg ≤ 2.5`.
 
 2. **Classification**
-   - Train classifiers (e.g., Random Forest).
+   - Train classifiers.
    - Identify potential PV candidates.
    - Evaluate with **Confusion Matrix, F1 Score, ROC-AUC**.
 
